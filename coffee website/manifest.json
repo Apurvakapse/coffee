@@ -1,0 +1,55 @@
+{
+  "short_name": "coffee",
+  "name": "coffeeshop",
+  "icons": [
+    {
+      "src": "/images/home-img.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/images/home-img.jpeg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/home-img.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#010103",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#d3ad7f",
+  "shortcuts": [
+    {
+      "name": "coffeeshop",
+      "short_name": "coffee ",
+      "description": " ",
+      "url": "/today?source=pwa",
+      "icons": [{ "src": "/images/home-img.jpeg", "sizes": "192x192" }]
+    },
+    {
+      "name": "coffeeshop",
+      "short_name": "coffee ",
+      "description": " ",
+      "url": "/tomorrow?source=pwa",
+      "icons": [{ "src": "/images/home-img.jpeg", "sizes": "192x192" }]
+    }
+  ],
+  "description": " ",
+  "screenshots": [
+    {
+      "src": "/images/home-img.jpeg",
+      "type": "image/jpeg",
+      "sizes": "540x720"
+    },
+    {
+      "src": "/images/home-img.jpeg",
+      "type": "image/jpeg",
+      "sizes": "540x720"
+    }
+  ]
+}
